@@ -1,0 +1,28 @@
+/* pages/detail-video/index.wxss */
+.video{
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+page{
+  padding-top: 450rpx;
+}
+
+.info{
+  padding: 30rpx;
+}
+
+.info .title{
+  font-weight: 700;
+}
+
+.info .desc, .info .other{
+  font-size: 24rpx;
+  margin-top: 10rpx;
+  color: #666;
+}
+
+.recommend{
+  padding: 30rpx;
+}
